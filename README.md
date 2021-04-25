@@ -11,7 +11,12 @@
 Установка(сетаппер) TERMUX
 
 `git clone https://github.com/J6597/Villain_sms_bomber`
+
 `mv sms_bombing_ru ~`
+
 `cd`
+
 `chmod +x *`
+
 `./sms_bombing_ru`
+
