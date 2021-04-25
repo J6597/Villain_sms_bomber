@@ -14,6 +14,8 @@
 
 `mv sms_bombing_ru ~`
 
+`cd Villain_sms_bomber`
+
 `cd`
 
 `chmod +x *`
