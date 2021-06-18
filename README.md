@@ -10,13 +10,15 @@
 
 Установка(сетаппер) TERMUX
 
+`apt update && apt upgrade`
+
 `pkg install git -y`
 
 `git clone https://github.com/J6597/Villain_sms_bomber`
 
-`mv sms_bombing_ru ~`
-
 `cd Villain_sms_bomber`
+
+`mv sms_bombing_ru ~`
 
 `cd`
 
